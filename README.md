@@ -1,12 +1,8 @@
-# ReduxSimpleStarter
+# React - Mini Youtube clone
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+From[Redux](https://www.udemy.com/react-redux/) - Lectures 1 - 33 (React Basics)
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
+### Getting Started - Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
@@ -16,10 +12,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Overview
 
-```
-> npm install
-> npm start
-```
+Great little app that shows the basics of React Components...State is entirely managed by parent and child components: No Redux!
